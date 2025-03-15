@@ -1,2 +1,1 @@
-# clase1
-este es mi primer repositorio
+# clase1 MARKDOWN
